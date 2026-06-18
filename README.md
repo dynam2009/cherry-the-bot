@@ -1,6 +1,6 @@
-# Cherry Bot
+# Cherry
 
-Official bot for Discord automation and utility.
+A feature rich Discord utility bot providing reminders, Dank Memer guides, fishing information, and quality of life features for Discord and Dank communities.
 
 ---
 
@@ -15,4 +15,4 @@ Official bot for Discord automation and utility.
 
 ## 📌 About
 
-Cherry is a Discord bot designed to help with (will write later).
+Cherry is a Discord utility bot focused on reminders and Dank Memer assistance. It provides customizable reminder systems, useful utility commands, and a comprehensive fishing guide featuring fish spawn chances, timing data, and other helpful information to enhance the user experience.
