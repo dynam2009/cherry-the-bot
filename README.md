@@ -6,10 +6,10 @@ A feature rich Discord utility bot providing reminders, Dank Memer guides, fishi
 
 ## 🔗 Links
 
-- [🤖 Invite Bot](https://your-bot-invite-link)
+- [🤖 Invite Bot](https://discord.com/oauth2/authorize?client_id=1511268577058095195&permissions=8&integration_type=0&scope=bot+applications.commands)
 - [📜 Privacy Policy](https://github.com/dynam2009/cherry-the-bot/blob/main/PRIVACY_POLICY.md)
 - [📜 Terms of Service](https://github.com/dynam2009/cherry-the-bot/blob/main/TERMS_OF_SERVICE.md)
-- [💬 Support Server](https://discord.gg/yourinvite)
+- [💬 Support Server](https://discord.gg/XTZKqZNq47)
 
 ---
 
